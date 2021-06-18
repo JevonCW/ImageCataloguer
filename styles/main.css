@@ -21,7 +21,7 @@ body {
   font-size: 23px;
 }
 
-.user {
+.username {
 width: 76%;
 color: rgb(38, 50, 56);
 font-weight: 700;
@@ -45,7 +45,7 @@ form.login_form {
   padding-top: 40px;
 }
 
-.passwd {
+.password {
       width: 76%;
 color: rgb(38, 50, 56);
 font-weight: 700;
